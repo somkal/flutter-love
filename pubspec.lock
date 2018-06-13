@@ -150,7 +150,7 @@ packages:
       name: image
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.2"
+    version: "2.0.3"
   io:
     dependency: transitive
     description:
@@ -430,5 +430,5 @@ packages:
     source: hosted
     version: "2.1.13"
 sdks:
-  dart: ">=2.0.0-dev.52.0 <=2.0.0-dev.59.0.flutter-1a185867a9"
+  dart: ">=2.0.0-dev.52.0 <=2.0.0-dev.61.0.flutter-c95617b19c"
   flutter: ">=0.1.4 <2.0.0"
