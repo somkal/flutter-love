@@ -19,7 +19,7 @@ $ pod setup
 $ open -a Simulator
 
 # device and signing = General > Signing > Team
-$ open ios/Runner.xsworkspace
+$ open ios/Runner.xcworkspace
 
 # deploy and run
 $ flutter run
